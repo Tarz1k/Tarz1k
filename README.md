@@ -16,9 +16,6 @@ A good validator should have 100% uptime
 
 Masa, Massa, Transformers, Territori, Decentrilized Web Services, Gear, Starknet, Subspace, Zeeka,  Empower, Kyvechain, Uptick, Celestia, Hypersign, Source, CrowdControl, Haqq, ironfish, Nois, Mande, Minima, Okp4, Androma
 
-✅My Validator's Testnets:
-
-Masa, Massa, Transformers, Territori, Decentrilized Web Services, Gear, Starknet, Subspace, Zeeka, Ollo, Empower, Kyvechain, Uptick, Celestia, Hypersign, Source, CrowdControl, Haqq, ironfish, Nois, Mande, Minima, Okp4, Androma
 
 ✅How you can contact me:
 
