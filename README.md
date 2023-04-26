@@ -11,11 +11,8 @@ I am very responsible to the nodes, smooth operation of the node is the most imp
 ### ✅My Validator's Mainnet:
 
 [![Lambda](https://img.shields.io/badge/Lambda-F6B237?style=flat-square&logo=Atom)](https://explorer.nodestake.top/lambda/staking/lambvaloper1paurj96ymjq96ar3m3vfanpg4fkwd0efmucm06)
-
 [![Nois](https://img.shields.io/badge/Nois-0B0913?style=flat-square&logo=Atom)](https://explorer.nodestake.top/nois/staking/noisvaloper1r4dnm99wuv93utu07astefy9n75wa6x52hg9k6)
-
 [![Uptick_Network](https://img.shields.io/badge/Uptick_Network-6601CD?style=flat-square&logo=Atom)](https://exp.utsa.tech/uptick/staking/uptickvaloper1a43t2a790muh3kcwjfpqyhs0qzmrgvu96pefmk)
-
 [![Terp](https://img.shields.io/badge/Terp-7892A9?style=flat-square&logo=Atom)](https://explorer.nodestake.top/terp/staking/terpvaloper1r0z2xj642rjmpxdp59gaf3x3rjtwsmx4pnfl4l)
 
 ### ✅My Validator's Testnets:
@@ -25,10 +22,7 @@ Masa, Massa, Transformers, Territori, Decentrilized Web Services, Gear, Starknet
 
 ### ✅How you can contact me:
 
-Email: Tarzikgve99@gmail.com
-
-Telegram: https://t.me/Tarzikmaugl
-
-https://twitter.com/Tarzik_maugl
-
-Discord: Tarzik#0659
+[![Gmail](https://img.shields.io/badge/Gmail-1C1C1C?style=flat-square&logo=Gmail)](https://Tarzikgve99@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-1C1C1C?style=flat-square&logo=Telegram)](https://t.me/Tarzikmaugll) 
+[![Twitter](https://img.shields.io/badge/Telegram-1C1C1C?style=flat-square&logo=Twitter)](https://twitter.com/Tarzik_maugl) 
+[![Discord](https://img.shields.io/badge/Discord-1C1C1C?style=flat-square&logo=Discord)](https://discordapp.com/users/Tarzik#0659/)
