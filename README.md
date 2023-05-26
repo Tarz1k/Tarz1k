@@ -24,5 +24,5 @@ Masa, Massa, Transformers, Territori, Decentrilized Web Services, Gear, Starknet
 
 [![Gmail](https://img.shields.io/badge/Gmail-1C1C1C?style=flat-square&logo=Gmail)](https://Tarzikgve99@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-1C1C1C?style=flat-square&logo=Telegram)](https://t.me/Tarzikmaugll) 
-[![Twitter](https://img.shields.io/badge/Telegram-1C1C1C?style=flat-square&logo=Twitter)](https://twitter.com/Tarzik_maugl) 
+[![Twitter](https://img.shields.io/badge/Twitter-1C1C1C?style=flat-square&logo=Twitter)](https://twitter.com/Tarzik_maugl) 
 [![Discord](https://img.shields.io/badge/Discord-1C1C1C?style=flat-square&logo=Discord)](https://discordapp.com/users/Tarzik#0659/)
